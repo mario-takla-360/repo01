@@ -2,6 +2,8 @@
 // console.log(__dirname)
 // console.log(__filename)
 
-setInterval(()=>{
+setInterval(() => {
     console.log("Hello World")
-},1000)
+}, 1000)
+
+// this is globals

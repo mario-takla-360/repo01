@@ -6,3 +6,4 @@ if (amount < 10) {
     console.log("number is big")
 }
 
+// this is intro
