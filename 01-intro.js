@@ -6,4 +6,8 @@ if (amount < 10) {
     console.log("number is big")
 }
 
+<<<<<<< Updated upstream
 // this is intro
+=======
+// this is the third intro commit to be doneeee
+>>>>>>> Stashed changes
